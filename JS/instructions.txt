@@ -1,0 +1,5 @@
+Using npm install required dependancies:
+    npm i kahoot.js-updated@2.4.0 --save
+    npm i colors
+    
+Version 2.4.0 of kahoot.js is required since the newer versions are deprecated and dont work.
